@@ -1,6 +1,6 @@
 # Senior/Lead Software Engineer
 
-* TaeHwan Kim (bluezery) | ohpowel@gmail.com | Shinagawa, 140-0002, Tokyo, Japan
+TaeHwan Kim (bluezery) | ohpowel@gmail.com | Shinagawa, 140-0002, Tokyo, Japan
 * Linkedin: https://www.linkedin.com/in/bluezery/
 * Github: http://bluezery.github.io/
 
