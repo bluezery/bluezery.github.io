@@ -1,8 +1,8 @@
 # Senior/Lead Software Engineer
 
 TaeHwan Kim (bluezery) | ohpowel@gmail.com | Shinagawa, 140-0002, Tokyo, Japan
-* Linkedin: https://www.linkedin.com/in/bluezery/
-* Github: http://bluezery.github.io/
+* Linkedin: [https://www.linkedin.com/in/bluezery/](https://www.linkedin.com/in/bluezery/)
+* Github: [http://github.com/bluezery](http://github.com/bluezery)
 
 # Executive summary
 * Constructed a software platform from scratch on the Linux kernel with Open source libraries.
