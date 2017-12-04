@@ -2,4 +2,4 @@
 
 Nothing to tell yet.
 
-* Resume: http://bluezery.github.io/resume
+* [Resume](http://bluezery.github.io/resume)
