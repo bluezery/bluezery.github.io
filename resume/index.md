@@ -1,26 +1,32 @@
 # Senior/Lead Software Engineer
 
-TaeHwan Kim (bluezery) | ohpowel@gmail.com | Shinagawa, 140-0002, Tokyo, Japan
+TaeHwan Kim (bluezery) | Shinagawa, 140-0002, Tokyo, Japan
 * Linkedin: [https://www.linkedin.com/in/bluezery/](https://www.linkedin.com/in/bluezery/)
 * Github: [http://github.com/bluezery](http://github.com/bluezery)
 
+# Interests
+* Machine Learning and Web technologies recently.
+* Performance profiling and optimization of a software platform or frameworks.
+* Developing graphic engines and interactive applications.
+* DevOps.
+
 # Executive summary
 * Constructed a software platform from scratch on the Linux kernel with Open source libraries.
-* Designed and developed system/UI frameworks, native APIs and test cases and documentations to support a large number of 3rd party developers.
+* Designed and developed frameworks and supported a large number of 3rd party developers.
 * Designed and developed high-performance and interactive applications to bring futuristic user experience.
-* Experienced and supported commercialization in various size of devices from tiny screens (Wearable, Mobile) to large/multi screens (TV, tabletop, wall screen).
-* Contributed and experienced Open source especially on the [Enlightenment](https://www.enlightenment.org/) and [Tizen](https://www.tizen.org/).
-* Collaborated in real-time with a team member or other teams off-line or on-line.
-* Automated build/packaging/releasing not only of a single application but also of a software platform.
+* Developed commercial products in various size of devices from tiny screens (Wearable, Mobile) to large/multi screens (TV, tabletop, wall screen).
+* Contributed to vairous Open source projects such as [Enlightenment](https://www.enlightenment.org/) and [Tizen](https://www.tizen.org/).
+* Automated build/packaging/releasing process not only of a single application but also of a software platform.
 
 # Technical expertise
-* Very experienced with C, C++, Linux, Shell scripting, REST, git, gerrit, SVN, JIRA, Phabricator, IRC, mailing lists, Bugzilla, Debian/RPM packaging, TETware, Doxygen.
+* Very experienced with C, C++, Linux, Shell scripting, REST, GDB, Valgrind, git, gerrit, SVN, JIRA, Phabricator, IRC, mailing lists, Bugzilla, Debian/RPM packaging, TETware, Doxygen.
 * Familiar with Javascript, HTML/CSS, PHP, MySQL, SQLite, PostgresSQL, Yocto, Docker.
 
 # Professional Experiences
 ### Nomad Freelancer Developer, Oct 2017 ~ Present
-* Experiencing Machine Learning and Web technologies.
-* Designed and developed REST APIs built in Laravel PHP.
+* Developing Web servers/applications
+* Developing iOS Application
+* Developing Machine Learning Softwares
 
 ### NEMO-UX, Dec 2014 ~ Oct 2017
 * Senior Software Engineer/Architect
@@ -32,7 +38,7 @@ TaeHwan Kim (bluezery) | ohpowel@gmail.com | Shinagawa, 140-0002, Tokyo, Japan
 ### Software R&D Center, Samsung Electronics, Feb 2009 ~ Dec 2014
 * Senior/Lead Software Engineer
     * Tizen commercialization support such as mobile phones(e.g. Samsung Z), wearable devices(e.g. Samsung Gear series), Televisions (e.g. Samsung TV)
-        * Redesign and performance/power optimization for UI framework.
+        * Performance & Power profiling and optimization/redesign for UI frameworks.
     * Lead design and development system/UI frameworks on the [Tizen](https://www.tizen.org/).
         * Test cases, documentations, packaging, releasing of [Enlightenment](https://www.enlightenment.org/) and related libraries on the Tizen from 1.0 to 2.3. (e.g. [link](https://review.tizen.org/git/?a=project_list&s=framework%2Fuifw%2F%28ecore%7Cedbus%7Cedje%7Ceet%7Ceeze%7Cefreet%7Ceina%7Ceio%7Celementary%7Cembryo%7Cemotion%7Cethumb%7Cevas%7Cexpedite%7Charfbuzz%7Celm-misc%7Cedje-multisense-plugin%7Cefl-assist%7Cefl-theme-tizen%7Cefl-theme-white%29&sr=1&btnS=Search))
         * Various UI themes (e.g. [link 1](https://review.tizen.org/git/?p=framework%2Fuifw%2Fefl-theme-white.git&a=search&h=HEAD&st=author&s=the81.kim%40samsung.com), [link 2](https://review.tizen.org/git/?p=framework%2Fuifw%2Fefl-theme-tizen.git&a=search&h=HEAD&st=author&s=the81.kim%40samsung.com)).
