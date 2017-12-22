@@ -11,12 +11,11 @@ TaeHwan Kim (bluezery) | Shinagawa, 140-0002, Tokyo, Japan
 * DevOps.
 
 # Executive summary
-* Constructed a software platform from scratch on the Linux kernel with Open source libraries.
-* Designed and developed frameworks and supported a large number of 3rd party developers.
-* Designed and developed high-performance and interactive applications to bring futuristic user experience.
-* Developed commercial products in various size of devices from tiny screens (Wearable, Mobile) to large/multi screens (TV, tabletop, wall screen).
+* Create/managed a software platform based on the Linux.
+* Developed frameworks/applications and also supported a large number of 3rd party developers.
+* Developed commercial products for various size of devices from tiny screens (Wearable, Mobile) to large/multi screens (TV, tabletop, wall screen).
 * Contributed to vairous Open source projects such as [Enlightenment](https://www.enlightenment.org/) and [Tizen](https://www.tizen.org/).
-* Automated build/packaging/releasing process not only of a single application but also of a software platform.
+* Performance profiling and optimization on the Linux.
 
 # Technical expertise
 * Very experienced with C, C++, Linux, Shell scripting, REST, GDB, Valgrind, git, gerrit, SVN, JIRA, Phabricator, IRC, mailing lists, Bugzilla, Debian/RPM packaging, TETware, Doxygen.
@@ -25,20 +24,39 @@ TaeHwan Kim (bluezery) | Shinagawa, 140-0002, Tokyo, Japan
 # Professional Experiences
 ### Nomad Freelancer Developer, Oct 2017 ~ Present
 * Developing Web servers/applications
-* Developing iOS Application
+* Developing iOS applications
 * Developing Machine Learning Softwares
 
 ### NEMO-UX, Dec 2014 ~ Oct 2017
 * Senior Software Engineer/Architect
-* Key contributor to a startup company to bring [futuristic software platform](https://www.youtube.com/watch?v=F-VnCznz7A0) based on the Linux supporting multi-user, multi-input/output.
-* Construction of a Software platform from scratch with Open source libraries (e.g. Wayland, Mesa, Systemd, Skia, Cairo, CEF, etc.).
-* Design and development of system/UI frameworks and high-performance/interactive applications (e.g. file browser, viewer, multi-view player, etc.) mainly based on vector rendering (e.g. Cairo, Skia) for designing futuristic user experiences.
-* Automation of Build/release/deploy process with shell scripting for diverse products (tabletop, wall screen devices).
+* Key contributor to a startup company to create a software platform supporting multi-user, multi-input/output.
+    - [(link)](https://www.youtube.com/watch?v=bsTKwx_VNcU)
+* Produced softwares for commerical products (tabletop, wall screen, etc.)
+    - [(link)](https://www.youtube.com/watch?v=F-VnCznz7A0)
+* Researched/deployed applicable opensources.
+* Built/packaged all softwares
+    * from Yocto to Debian.
+* Ported/managed system libraries and daemons
+    * Systemd, Network Manager(or Connman), pulseaudio, mesa, touch drivers, etc.
+* Created an application framework
+    - Wayland client engine
+    - Vector engine (based on Cairo, Skia)
+    - Font engine (based on freetype2, harfbuzz)
+    - Connection engine (based on curl)
+    - Video engine (based on Gstreamer, FFmpeg)        
+    - Viewer engine (based on MagickWan, pixman, libjpeg, libpng, pdf)
+    - Utilties (based on expat, json-c, dbus, libudev)
+    - Sound engine
+* Created interactive applications for futuristic UX
+    - Basic applications
+        + clock, weather, file browser, viewer(images, pdf), video player, keyaord, Status, screen saver, text viewer, usb launcher, etc.
+    - Featured applications
+        + Multiple player, live streamer, Card shell,  Karim Rashid shell, Space shell, etc.
 
 ### Software R&D Center, Samsung Electronics, Feb 2009 ~ Dec 2014
 * Senior/Lead Software Engineer
     * Tizen commercialization support such as mobile phones(e.g. Samsung Z), wearable devices(e.g. Samsung Gear series), Televisions (e.g. Samsung TV)
-        * Performance & Power profiling and optimization/redesign for UI frameworks.
+        * Performance profiling and optimization for UI frameworks.
     * Lead design and development system/UI frameworks on the [Tizen](https://www.tizen.org/).
         * Test cases, documentations, packaging, releasing of [Enlightenment](https://www.enlightenment.org/) and related libraries on the Tizen from 1.0 to 2.3. (e.g. [link](https://review.tizen.org/git/?a=project_list&s=framework%2Fuifw%2F%28ecore%7Cedbus%7Cedje%7Ceet%7Ceeze%7Cefreet%7Ceina%7Ceio%7Celementary%7Cembryo%7Cemotion%7Cethumb%7Cevas%7Cexpedite%7Charfbuzz%7Celm-misc%7Cedje-multisense-plugin%7Cefl-assist%7Cefl-theme-tizen%7Cefl-theme-white%29&sr=1&btnS=Search))
         * Various UI themes (e.g. [link 1](https://review.tizen.org/git/?p=framework%2Fuifw%2Fefl-theme-white.git&a=search&h=HEAD&st=author&s=the81.kim%40samsung.com), [link 2](https://review.tizen.org/git/?p=framework%2Fuifw%2Fefl-theme-tizen.git&a=search&h=HEAD&st=author&s=the81.kim%40samsung.com)).
