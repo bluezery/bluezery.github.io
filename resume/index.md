@@ -11,10 +11,10 @@ TaeHwan Kim (bluezery) | Shinagawa, 140-0002, Tokyo, Japan
 * DevOps.
 
 # Executive summary
-* Create/managed a software platform based on the Linux.
+* Create and managed a software platform based on the Linux.
 * Developed frameworks/applications and also supported a large number of 3rd party developers.
 * Developed commercial products for various size of devices from tiny screens (Wearable, Mobile) to large/multi screens (TV, tabletop, wall screen).
-* Contributed to vairous Open source projects such as [Enlightenment](https://www.enlightenment.org/) and [Tizen](https://www.tizen.org/).
+* Contributed to vairous open source projects such as [Enlightenment](https://www.enlightenment.org/) and [Tizen](https://www.tizen.org/).
 * Performance profiling and optimization on the Linux.
 
 # Technical expertise
@@ -29,25 +29,23 @@ TaeHwan Kim (bluezery) | Shinagawa, 140-0002, Tokyo, Japan
 
 ### NEMO-UX, Dec 2014 ~ Oct 2017
 * Senior Software Engineer/Architect
-* Key contributor to a startup company to create a software platform supporting multi-user, multi-input/output.
-    - [(link)](https://www.youtube.com/watch?v=bsTKwx_VNcU)
-* Produced softwares for commerical products (tabletop, wall screen, etc.)
-    - [(link)](https://www.youtube.com/watch?v=F-VnCznz7A0)
+* Key contributor to a startup company to create a software platform supporting multi-user, multi-input/output. [(link)](https://www.youtube.com/watch?v=bsTKwx_VNcU)
+* Produced various commerical products (tabletop, wall screen, etc.) [(link)](https://www.youtube.com/watch?v=F-VnCznz7A0)
 * Researched/deployed applicable opensources.
-* Built/packaged all softwares
-    * from Yocto to Debian.
+* Built and packaged all softwares
+    * Debian, rpm, Yocto, etc.
 * Ported/managed system libraries and daemons
-    * Systemd, Network Manager(or Connman), pulseaudio, mesa, touch drivers, etc.
-* Created an application framework
+    * Systemd, Network Manager(or Connman), pulseaudio, mesa, comercial drivers, etc.
+* Created essential application frameworks
     - Wayland client engine
     - Vector engine (based on Cairo, Skia)
     - Font engine (based on freetype2, harfbuzz)
     - Connection engine (based on curl)
     - Video engine (based on Gstreamer, FFmpeg)        
-    - Viewer engine (based on MagickWan, pixman, libjpeg, libpng, pdf)
+    - Viewer engine (based on MagickWand, pixman, libjpeg, libpng, pdf)
     - Utilties (based on expat, json-c, dbus, libudev)
-    - Sound engine
-* Created interactive applications for futuristic UX
+    - Sound engine, Browser engine, etc.
+* Created main applications for interactive UX
     - Basic applications
         + clock, weather, file browser, viewer(images, pdf), video player, keyaord, Status, screen saver, text viewer, usb launcher, etc.
     - Featured applications
