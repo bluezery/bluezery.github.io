@@ -33,11 +33,10 @@ TaeHwan Kim (bluezery) | Shinagawa, 140-0002, Tokyo, Japan
 * Senior Software Engineer
 * Founding member of NEMO-UX ([github](https://github.com/nemoux/)) start-up compandy in eager
     * Create a futuristic S/W environment (e.g. [link](https://www.youtube.com/watch?v=bsTKwx_VNcU))
-    * Create world's first platform to upport support multi-user and multi-input/output 
+    * Create world's first multi-user platform to support multi-input/output.
 * Produced various commerical products (tabletop, wall screen, etc.) (e.g. [link](https://www.youtube.com/watch?v=F-VnCznz7A0))
-* Researched applicable opensources.
-* Built and packaged all softwares
-    * Debian, rpm, Yocto, etc.
+* Maintain build and packaging
+    * Based on debian, rpm, Yocto, etc.
 * Ported and managed system libraries and daemons
     * Systemd, Network Manager(or Connman), pulseaudio, mesa, comercial drivers, etc.
 * Created essential application frameworks
@@ -57,18 +56,17 @@ TaeHwan Kim (bluezery) | Shinagawa, 140-0002, Tokyo, Japan
 
 ## Software R&D Center, Samsung Electronics, Feb 2009 ~ Dec 2014
 * Senior/Lead Software Engineer
-    * Worked on open and standard based S/W platform for multiple device categories. (Mobile, Wearable, TV, IVI, Refrigerator, etc.)
-    * Supported tizen commercialization such as mobile phones(e.g. Samsung Z), wearable devices(e.g. Samsung Gear series), Televisions (e.g. Samsung TV)
-        * Conducted performance profiling and optimization for UI frameworks.
-    * Contributed open sources, especially Enlightenment (e.g. [link])
-    * Developed UI and system frameworks on the [Tizen](https://www.tizen.org/).
-        * Test cases, documentations, packaging, releasing of [Enlightenment](https://www.enlightenment.org/) and related libraries on the Tizen from 1.0 to 2.3. (e.g. [link](https://review.tizen.org/git/?a=project_list&s=framework%2Fuifw%2F%28ecore%7Cedbus%7Cedje%7Ceet%7Ceeze%7Cefreet%7Ceina%7Ceio%7Celementary%7Cembryo%7Cemotion%7Cethumb%7Cevas%7Cexpedite%7Charfbuzz%7Celm-misc%7Cedje-multisense-plugin%7Cefl-assist%7Cefl-theme-tizen%7Cefl-theme-white%29&sr=1&btnS=Search))
-        * Various UI themes (e.g. [link 1](https://review.tizen.org/git/?p=framework%2Fuifw%2Fefl-theme-white.git&a=search&h=HEAD&st=author&s=the81.kim%40samsung.com), [link 2](https://review.tizen.org/git/?p=framework%2Fuifw%2Fefl-theme-tizen.git&a=search&h=HEAD&st=author&s=the81.kim%40samsung.com)).
+    * Worked on [Tizen](https://www.tizen.org/), standard based S/W platform for multiple device categories. (Mobile, Wearable, TV, IVI, Refrigerator, etc.)
+    * Contributed [Enlightenment](https://www.enlightenment.org/), open source and set of library toolkits equivalent to GTK and QT. (e.g. [link](https://phab.enlightenment.org/search/query/ia23VwHIO7fL/#R))
+    * Supported Tizen commercialization such as mobile phones, wearable devices Televisions. (e.g. Samsung Z, Samsung Gear, Samsung TV)
+        * Performance profiling and optimization for UI frameworks.
+    * Led packaging, realse, documentations, testing of Enlightenment and related libraries on the Tizen from 1.0 to 2.3. (e.g. [link](https://review.tizen.org/git/?a=project_list&s=framework%2Fuifw%2F%28ecore%7Cedbus%7Cedje%7Ceet%7Ceeze%7Cefreet%7Ceina%7Ceio%7Celementary%7Cembryo%7Cemotion%7Cethumb%7Cevas%7Cexpedite%7Charfbuzz%7Celm-misc%7Cedje-multisense-plugin%7Cefl-assist%7Cefl-theme-tizen%7Cefl-theme-white%29&sr=1&btnS=Search))
+    * Developed UI and system frameworks on the Tizen.        
         * UI framework/widgets (e.g. [link 1](https://review.tizen.org/git/?p=framework%2Fuifw%2Felementary.git&a=search&h=b4d93e1e51bcb289a8571a323515a308397ba450&st=author&s=the81.kim%40samsung.com), [link 2](https://review.tizen.org/git/?p=profile%2Fmobile%2Felementary.git&a=search&h=HEAD&st=author&s=the81.kim%40samsung.com)).
+        * Various UI themes (e.g. [link 1](https://review.tizen.org/git/?p=framework%2Fuifw%2Fefl-theme-white.git&a=search&h=HEAD&st=author&s=the81.kim%40samsung.com), [link 2](https://review.tizen.org/git/?p=framework%2Fuifw%2Fefl-theme-tizen.git&a=search&h=HEAD&st=author&s=the81.kim%40samsung.com)).        
         * Map framework/widget based on [Here Maps](https://wego.here.com/).
-        * Location framework based on [Geoclue](
-    https://www.freedesktop.org/wiki/Software/GeoClue/).
-    https://phab.enlightenment.org/search/query/ia23VwHIO7fL/#R)).
+        * Location framework based on [Geoclue](https://www.freedesktop.org/wiki/Software/GeoClue/).
+
 * Junior Software Engineer
     * Telephony framework (e.g. RIL) especially for SIM toolkit based on [D-Bus](https://www.freedesktop.org/wiki/Software/dbus/).
 
