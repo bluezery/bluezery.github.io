@@ -1,6 +1,6 @@
 # 10 Breakthrough Technologies 2018 요약
 
-https://www.technologyreview.com/lists/technologies/2018/
+[https://www.technologyreview.com/lists/technologies/2018/](https://www.technologyreview.com/lists/technologies/2018/)
 
 ### 3-D Metal Printing
 
