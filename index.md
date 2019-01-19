@@ -7,3 +7,4 @@ Nothing to tell yet.
 * [Data Enginnering](http://bluezery.github.io/study_data_engineering)
 * [Artificial Intelligence](https://bluezery.github.io/study_artificial_intelligence/)
 * [Mathematics](https://bluezery.github.io/study_mathematics/)
+* [Languages](lang/index.md)
