@@ -2,7 +2,7 @@ Python Study
 
 ---
 
-# Korean Lectures
+# Korean Books
 - [점프 투 파이썬](https://wikidocs.net/book/1)
 - [왕초보를 위한 Python 2.7](https://wikidocs.net/book/2)
 - [파이썬으로 배우는 알고리즘 트레이딩 (3쇄)](https://wikidocs.net/book/110)
